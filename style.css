@@ -148,6 +148,7 @@ body {
     background-image: url(./images/bg-mobile.png);
     background-position: center;
     background-size: cover;
+    font-size: 14px;
   }
 
   .block-1,
