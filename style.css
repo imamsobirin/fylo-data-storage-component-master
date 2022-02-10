@@ -141,7 +141,7 @@ body {
   .container {
     flex-direction: column;
     justify-content: center;
-    width: 80%;
+    width: 90%;
   }
 
   body {
